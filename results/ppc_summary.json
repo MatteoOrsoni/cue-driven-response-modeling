@@ -1,0 +1,77 @@
+{
+ "model1": {
+  "max |acc_pred - acc_obs| over conditions (points)": 0.5777967240041426,
+  "rmse of accuracy in 25-ms bins, range over conditions (points)": [
+   1.379616902702312,
+   2.5801572350009594
+  ],
+  "mean |quantile error| (ms), range over conditions": [
+   3.9973247616896055,
+   7.633829525837211
+  ],
+  "mean |quantile error| (ms), all responses": 4.360263039116625,
+  "max |quantile error| (ms) over conditions": 17.324497732665627,
+  "jumps 100-200 ms before the cue": {
+   "n": 470,
+   "acc_obs": 0.7361702127659574,
+   "acc_pred": 0.8410245500837981
+  },
+  "all responses > 400 ms after the cue": {
+   "n": 1509,
+   "acc_obs": 0.8204108681245859,
+   "acc_pred": 0.8613503062806774
+  }
+ },
+ "model2": {
+  "max |acc_pred - acc_obs| over conditions (points)": 10.722001322804097,
+  "rmse of accuracy in 25-ms bins, range over conditions (points)": [
+   10.89418091661271,
+   19.596729574059786
+  ],
+  "mean |quantile error| (ms), range over conditions": [
+   13.614089411445356,
+   30.065867204917794
+  ],
+  "mean |quantile error| (ms), all responses": 19.435388896795814,
+  "max |quantile error| (ms) over conditions": 61.32533377320903,
+  "jumps 100-200 ms before the cue": {
+   "n": 470,
+   "acc_obs": 0.7361702127659574,
+   "acc_pred": 0.5
+  },
+  "all responses > 400 ms after the cue": {
+   "n": 1509,
+   "acc_obs": 0.8204108681245859,
+   "acc_pred": 0.9137042444809929
+  }
+ },
+ "model3": {
+  "max |acc_pred - acc_obs| over conditions (points)": 0.2183464378176847,
+  "rmse of accuracy in 25-ms bins, range over conditions (points)": [
+   1.3081599995849464,
+   3.9349465816289966
+  ],
+  "mean |quantile error| (ms), range over conditions": [
+   1.3855608453288946,
+   5.496441694819952
+  ],
+  "mean |quantile error| (ms), all responses": 3.2767575497945622,
+  "max |quantile error| (ms) over conditions": 8.03532450128297,
+  "jumps 100-200 ms before the cue": {
+   "n": 470,
+   "acc_obs": 0.7361702127659574,
+   "acc_pred": 0.7867367986168867
+  },
+  "all responses > 400 ms after the cue": {
+   "n": 1509,
+   "acc_obs": 0.8204108681245859,
+   "acc_pred": 0.8635814017976767
+  }
+ },
+ "model3_chains_used": [
+  1,
+  2,
+  3,
+  4
+ ]
+}

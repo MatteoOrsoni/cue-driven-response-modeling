@@ -1,0 +1,26 @@
+block,index,level,SB,SB_at_154_obstacles
+Behavioral indices,omission rate,Level 1,0.9509326926207772,
+Behavioral indices,action-error rate,Level 1,0.9082032991988154,
+Behavioral indices,"timing, mean",Level 1,0.9538035791854907,
+Behavioral indices,"timing, SD",Level 1,0.8767360587262266,
+Behavioral indices,proportion of early responses,Level 1,0.9356598161459889,
+Behavioral indices,omission rate,Level 2,0.9528211690630213,0.9384462352077262
+Behavioral indices,action-error rate,Level 2,0.911537092122539,0.8860871423671406
+Behavioral indices,"timing, mean",Level 2,0.9438437734907278,0.9269432427437291
+Behavioral indices,"timing, SD",Level 2,0.9134816219856536,0.8885226800673462
+Behavioral indices,proportion of early responses,Level 2,0.9332938516825525,0.9135092149355253
+"Truncated DDM (hierarchical, responses >= 150 ms)",drift,Level 1,0.9323193489858554,
+"Truncated DDM (hierarchical, responses >= 150 ms)",drift,Level 2,0.9330586788076625,
+"Truncated DDM (hierarchical, responses >= 150 ms)",log a,Level 1,0.8277834438513351,
+"Truncated DDM (hierarchical, responses >= 150 ms)",log a,Level 2,0.8116475577365542,
+"Truncated DDM (hierarchical, responses >= 150 ms)",non-decision time (logit),both levels,0.43006576632157556,
+Model 1,drift,Level 1,0.7844178601495978,
+Model 1,drift,Level 2,0.7824028235349662,
+Model 1,log a,Level 1,0.671506408139485,
+Model 1,log a,Level 2,0.6323976908066052,
+Model 1,logit P(timed),Level 1,0.7148631030372434,
+Model 1,logit P(timed),Level 2,0.6392894472060904,
+Model 1,non-decision time (logit),both levels,0.7551246183988213,
+Model 1,timed centre,both levels,0.9182503250628025,
+Model 1,timed accuracy,both levels,0.8991910313447514,
+Model 1,timed spread (log SD),both levels,0.90778705724074,

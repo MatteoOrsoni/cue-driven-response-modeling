@@ -1,0 +1,44 @@
+{
+ "rhat_max": 1.0071589652350539,
+ "ess_min": 623.5092613351222,
+ "divergences": 4,
+ "population": {
+  "n": 45,
+  "covered": 36,
+  "r_true_recovered": 0.99625810871414,
+  "misses": [
+   "b_a[4]",
+   "b_a[7]",
+   "b_a[8]",
+   "b_v[0]",
+   "b_v[3]",
+   "b_v[4]",
+   "b_v_jump",
+   "c_t",
+   "c_t_sess"
+  ]
+ },
+ "bias": {
+  "drift, mean over cells (recovered - true)": -0.11092933267354965,
+  "boundary, mean ratio recovered / true - 1": -0.05229061841964722,
+  "non-decision time true (ms)": 18.852561950683594,
+  "non-decision time recovered (ms)": 26.476993560791016
+ },
+ "children": {
+  "v0": 0.8399286292084744,
+  "vver": 0.3764216296527276,
+  "a0": 0.7074347489066977,
+  "aver": 0.6251164039898299,
+  "t": 0.8286356277693202,
+  "p0": 0.827614180872678,
+  "pver": 0.7625117274748858,
+  "m": 0.956681414867217,
+  "r": 0.9169482012122327,
+  "g": 0.9477872230425073
+ },
+ "contrasts": {
+  "n": 41,
+  "covered": 37,
+  "drift minute contrasts: median recovered / true": 1.2967607024022958
+ }
+}

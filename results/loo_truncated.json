@@ -1,0 +1,20 @@
+{
+ "responses": 22448,
+ "truncated DDM R-hat max": 1.0149922370910645,
+ "Model 1, conditional on 150-500 ms": {
+  "elpd": 23791.799639811972,
+  "se": 136.81220266725612,
+  "p_loo": 378.4439942572933,
+  "k_gt_0.7": 16
+ },
+ "hierarchical truncated DDM": {
+  "elpd": 23539.11901013106,
+  "se": 141.08958948923794,
+  "p_loo": 362.02685569161576,
+  "k_gt_0.7": 0
+ },
+ "delta elpd (Model 1 - truncated DDM)": [
+  252.68062968091024,
+  30.230878384082402
+ ]
+}

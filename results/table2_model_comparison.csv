@@ -1,0 +1,4 @@
+Model,Description,Chains used,elpd_loo,SE,delta_elpd,SE_delta,p_loo,k>0.7,R-hat max
+Model 1,Timed component + diffusion starting at the cue,4/4,16052,206,0,0,968,1,1.01
+Model 2,"As Model 1, timed responses correct at chance",4/4,11709,210,-4343,91,1006,0,1.01
+Model 3,"As Model 1, diffusion starting with the visual information",4/8,16716,209,664,44,1083,24,1.02
