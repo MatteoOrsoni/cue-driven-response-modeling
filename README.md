@@ -2,9 +2,9 @@
 
 Analysis code for:
 
-> Orsoni, M., Riccardi, A., Magri, S., Barbaresi, M., & Benassi, M. (2026). *Modeling anticipatory and
-> cue-driven responses in a gamified sustained-attention task for children*. 
-
+> Orsoni, M., RIccardi, A., Magri, S., Barbaresi, M., & Benassi, M. (2026). *Modeling
+> anticipatory and cue-driven responses in a gamified sustained-attention task for children*.
+> Zenodo. https://doi.org/10.5281/zenodo.24011594
 
 In Eye-Riders A, an endless-runner game, children jump over or slide under obstacles after an auditory
 cue, but the obstacle can be identified before the cue. Almost half of the responses come too early to be
